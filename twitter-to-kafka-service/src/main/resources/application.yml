@@ -1,0 +1,7 @@
+twitter4j:
+  debug: true
+  oauth:
+    consumer-key: as
+    consumer-secret: as 
+    access-token: as
+    access-token-secret: as
